@@ -1,0 +1,54 @@
+#===============================================================
+#People who are wizards
+#===============================================================
+wizards = {\
+"Adri" : ["ml","ai"],\
+"Alicia" : [],\
+"Ashwary" : ["python","c++"],\
+"Berndt" : [],\
+"Christian" : [],\
+"Dave" : ["abinitio", "profit&loss","sale","hr"],\
+"Diego" : ["cloudera","confluent","kafka"],\
+"Evan" : ["ml","ai","python"],\
+"Lisa" : [],\
+"Marin" : [],\
+"Mustafa" : [],\
+"Nicole" : [],\
+"Noe" : ["abinitio"],\
+"Passi" : ["profit&loss","cloudera","confluent","kafka","sale","HR",],\
+"Pavel" : [],\
+"Robert" : ["abinitio","ml","ai"],\
+"Sabrina" : ["sale","marketing"],\
+"Sasha" : ["hr"],\
+"Saurab" : ["cloudera","kafka","confluent","cricket","java"],\
+"Socrates" : ["cloudera","devops","cloud","devops","aws"],\
+"Simon" : [],\
+"Suzie" : []\
+}
+#===============================================================
+#All Skills
+#===============================================================
+proficient = {\
+"Adri" : ["ml","ai","profit&loss","cloudera","cloud"],\
+"Alicia" : [],\
+"Ashwary" : ["python","c++"],\
+"Berndt" : [],\
+"Christian" : ["profit&loss","cloud","devops","ml","ai"],\
+"Dave" : ["abinitio", "profit&loss","sale","hr","marketing"],\
+"Diego" : ["cloudera","confluent","kafka","could","devops"],\
+"Evan" : ["ml","ai","python","c","couldera","pyspark"],\
+"Lisa" : [],\
+"Marin" : ["abinitio","hr","cloud","ml","ai","aws"],\
+"Mustafa" : ["cloudera","confluent","hr","cloud","devops","ml","ai","aws"],\
+"Nicole" : [],\
+"Noe" : ["abinitio"],\
+"Passi" : ["profit&loss","cloudera","confluent","kafka","sale","HR","marketing","devops","cloud","ml","ai","aws"],\
+"Pavel" : [],\
+"Robert" : ["abinitio","ml","ai","profit&loss","cloud","aws"],\
+"Sabrina" : ["sale","marketing"],\
+"Sasha" : ["hr","marketing"],\
+"Saurab" : ["cloudera","kafka","confluent","cricket","java","aws","devops","cloud"],\
+"Socrates" : ["cloudera","devops","confluent","kafka","cloud","devops","aws","sale","hr","marketing","ml","ai"],\
+"Simon" : [],\
+"Suzie" : []\
+}
